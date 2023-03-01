@@ -1,5 +1,5 @@
 SiGe_SLs.zip
-Contains Dataset for SiGe Superlattices of various periods and strains.
+Contains Dataset for SiGe Superlattices of various periods and strains with different sizes of supercells.
 
 SiGe_SL_16atoms.zip
 Contains Dataset for SiGe Superlattices of various periods and strains restricted to 16 atom supercell.
